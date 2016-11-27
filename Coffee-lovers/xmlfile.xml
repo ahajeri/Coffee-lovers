@@ -1,152 +1,720 @@
-
-<?xml version="1.0" encoding="utf-8" ?>
-
- <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
-
-  <channel>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="" type="application/rss+xml" />
-     <title>NASA Earth Observatory Image of the Day</title>
-     <link>http://earthobservatory.nasa.gov/IOTD/</link>
-     <description>Your source for monitoring regional and global changes on our planet through images and stories.</description>
-     <language>en-us</language>
-     <rating>(PICS-1.1 "http://www.rsac.org/ratingsv01.html"
-		l gen true comment "RSACi North America Server" 
-		for "http://earthobservatory.nasa.gov/" on "2000.09.27T15:55-0800" 
-		r (n 0 s 0 v 0 l 0))</rating>
-     <pubDate>Sat, 26 Nov 2016 10:15:01 -0500</pubDate>
-     <lastBuildDate>Sat, 26 Nov 2016 10:15:01 -0500</lastBuildDate>
-     <webMaster>paul.d.przyborski@nasa.gov (Paul Przyborski)</webMaster>
-
-     <image>
-       <title>NASA Earth Observatory Image of the Day</title>
-       <url>http://eoimages.gsfc.nasa.gov/images/feeds/eo_feed_logo.gif</url>
-       <link>http://earthobservatory.nasa.gov/IOTD/</link>
-       <width>144</width>
-       <height>46</height>
-       <description>Your source for monitoring regional and global changes on our planet through images and stories.</description>
-    </image>
-    <item>
-       <title>Eruption at Sabancaya</title>
-       <link>http://earthobservatory.nasa.gov/IOTD/view.php?id=89149&amp;src=iotdrss</link>        
-       <media:thumbnail url="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89149/sabancaya_oli_2016324_th.jpg"></media:thumbnail>    
-       <description><![CDATA[Recently, the volcanoís occassional puffs of ash and volcanic gases have become more frequent and intense.]]></description>	    
-       <content:encoded><![CDATA[
-	<p><a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=89149&amp;src=iotdrsscontent"><img src="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89149/sabancaya_oli_2016324_th.jpg" border="0" alt="Eruption at Sabancaya"/></a><br/>Recently, the volcanoís occassional puffs of ash and volcanic gases have become more frequent and intense.</p>
-       ]]></content:encoded>	
-       <pubDate>Sat, 26 Nov 2016 00:00:00 -0500</pubDate>
-       <guid>http://earthobservatory.nasa.gov/IOTD/view.php?id=89149&amp;src=iotdrss</guid>		
-       <georss:point>-15.79 -71.86</georss:point>	
-    </item>
-    <item>
-       <title>Cape Cod National Seashore</title>
-       <link>http://earthobservatory.nasa.gov/IOTD/view.php?id=89171&amp;src=iotdrss</link>        
-       <media:thumbnail url="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89171/wellfleet_oli_2016236_tn.jpg"></media:thumbnail>    
-       <description><![CDATA[ìA man may stand there and put all America behind him.î ]]></description>	    
-       <content:encoded><![CDATA[
-	<p><a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=89171&amp;src=iotdrsscontent"><img src="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89171/wellfleet_oli_2016236_tn.jpg" border="0" alt="Cape Cod National Seashore"/></a><br/>ìA man may stand there and put all America behind him.î </p>
-       ]]></content:encoded>	
-       <pubDate>Fri, 25 Nov 2016 00:00:00 -0500</pubDate>
-       <guid>http://earthobservatory.nasa.gov/IOTD/view.php?id=89171&amp;src=iotdrss</guid>		
-       <georss:point>42.098 -70.005</georss:point>	
-    </item>
-    <item>
-       <title>Tropical Storm Otto</title>
-       <link>http://earthobservatory.nasa.gov/IOTD/view.php?id=89164&amp;src=iotdrss</link>        
-       <media:thumbnail url="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89164/otto_tmo_2016327_tn.jpg"></media:thumbnail>    
-       <description><![CDATA[Forecasters expect that the late-season storm will strengthen as it churns over unusually warm water. ]]></description>	    
-       <content:encoded><![CDATA[
-	<p><a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=89164&amp;src=iotdrsscontent"><img src="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89164/otto_tmo_2016327_tn.jpg" border="0" alt="Tropical Storm Otto"/></a><br/>Forecasters expect that the late-season storm will strengthen as it churns over unusually warm water. </p>
-       ]]></content:encoded>	
-       <pubDate>Thu, 24 Nov 2016 00:00:00 -0500</pubDate>
-       <guid>http://earthobservatory.nasa.gov/IOTD/view.php?id=89164&amp;src=iotdrss</guid>		
-       <georss:point>10.9 -80.1</georss:point>	
-    </item>
-    <item>
-       <title>Algae Bloom or Swirling Sediment?</title>
-       <link>http://earthobservatory.nasa.gov/IOTD/view.php?id=89154&amp;src=iotdrss</link>        
-       <media:thumbnail url="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89154/spencergulf_amo_2016321_tn.jpg"></media:thumbnail>    
-       <description><![CDATA[Swirling patterns in Spencer Gulf require a bit of detective work.]]></description>	    
-       <content:encoded><![CDATA[
-	<p><a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=89154&amp;src=iotdrsscontent"><img src="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89154/spencergulf_amo_2016321_tn.jpg" border="0" alt="Algae Bloom or Swirling Sediment?"/></a><br/>Swirling patterns in Spencer Gulf require a bit of detective work.</p>
-       ]]></content:encoded>	
-       <pubDate>Wed, 23 Nov 2016 00:00:00 -0500</pubDate>
-       <guid>http://earthobservatory.nasa.gov/IOTD/view.php?id=89154&amp;src=iotdrss</guid>		
-       <georss:point>-34.2 137.2</georss:point>	
-    </item>
-    <item>
-       <title>Atlanta Harnesses Green Space to Fight Wastewater</title>
-       <link>http://earthobservatory.nasa.gov/IOTD/view.php?id=89123&amp;src=iotdrss</link>        
-       <media:thumbnail url="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89123/atlanta_gis_2016_th.png"></media:thumbnail>    
-       <description><![CDATA[Researchers and conservationists are taking advantage of existing forests to bolster Atlantaís natural defenses.]]></description>	    
-       <content:encoded><![CDATA[
-	<p><a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=89123&amp;src=iotdrsscontent"><img src="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89123/atlanta_gis_2016_th.png" border="0" alt="Atlanta Harnesses Green Space to Fight Wastewater"/></a><br/>Researchers and conservationists are taking advantage of existing forests to bolster Atlantaís natural defenses.</p>
-       ]]></content:encoded>	
-       <pubDate>Tue, 22 Nov 2016 00:00:00 -0500</pubDate>
-       <guid>http://earthobservatory.nasa.gov/IOTD/view.php?id=89123&amp;src=iotdrss</guid>		
-       <georss:point>33.68 -84.38</georss:point>	
-    </item>
-    <item>
-       <title>Linear Dunes, Namib Sand Sea</title>
-       <link>http://earthobservatory.nasa.gov/IOTD/view.php?id=89136&amp;src=iotdrss</link>        
-       <media:thumbnail url="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89136/iss047e023405_tn.jpg"></media:thumbnail>    
-       <description><![CDATA[Dunes grow upon dunes in one of the most visually spectacular places on Earth, as least from an astronautís perspective.]]></description>	    
-       <content:encoded><![CDATA[
-	<p><a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=89136&amp;src=iotdrsscontent"><img src="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89136/iss047e023405_tn.jpg" border="0" alt="Linear Dunes, Namib Sand Sea"/></a><br/>Dunes grow upon dunes in one of the most visually spectacular places on Earth, as least from an astronautís perspective.</p>
-       ]]></content:encoded>	
-       <pubDate>Mon, 21 Nov 2016 00:00:00 -0500</pubDate>
-       <guid>http://earthobservatory.nasa.gov/IOTD/view.php?id=89136&amp;src=iotdrss</guid>		
-       <georss:point>-24.07 15.65</georss:point>	
-    </item>
-    <item>
-       <title>Kilaueaís Lava Pours Into the Pacific</title>
-       <link>http://earthobservatory.nasa.gov/IOTD/view.php?id=89127&amp;src=iotdrss</link>        
-       <media:thumbnail url="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89127/kilauea_ali_2016318_tn.jpg"></media:thumbnail>    
-       <description><![CDATA[Molten rock meets the sea in the latest episode in a long-lived eruption. ]]></description>	    
-       <content:encoded><![CDATA[
-	<p><a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=89127&amp;src=iotdrsscontent"><img src="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89127/kilauea_ali_2016318_tn.jpg" border="0" alt="Kilaueaís Lava Pours Into the Pacific"/></a><br/>Molten rock meets the sea in the latest episode in a long-lived eruption. </p>
-       ]]></content:encoded>	
-       <pubDate>Sun, 20 Nov 2016 00:00:00 -0500</pubDate>
-       <guid>http://earthobservatory.nasa.gov/IOTD/view.php?id=89127&amp;src=iotdrss</guid>		
-       <georss:point>19.359089245934 -155.06378173828</georss:point>	
-    </item>
-    <item>
-       <title>Ancient Waterways in Morocco </title>
-       <link>http://earthobservatory.nasa.gov/IOTD/view.php?id=89133&amp;src=iotdrss</link>        
-       <media:thumbnail url="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89133/eljorf_oli_2016184_th.jpg"></media:thumbnail>    
-       <description><![CDATA[ Underground channels have supplied towns in southeastern Morocco for centuries. ]]></description>	    
-       <content:encoded><![CDATA[
-	<p><a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=89133&amp;src=iotdrsscontent"><img src="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89133/eljorf_oli_2016184_th.jpg" border="0" alt="Ancient Waterways in Morocco "/></a><br/> Underground channels have supplied towns in southeastern Morocco for centuries. </p>
-       ]]></content:encoded>	
-       <pubDate>Sat, 19 Nov 2016 00:00:00 -0500</pubDate>
-       <guid>http://earthobservatory.nasa.gov/IOTD/view.php?id=89133&amp;src=iotdrss</guid>		
-       <georss:point>31.5 -4.43</georss:point>	
-    </item>
-    <item>
-       <title>Deadly Smog Shrouds Tehran</title>
-       <link>http://earthobservatory.nasa.gov/IOTD/view.php?id=89130&amp;src=iotdrss</link>        
-       <media:thumbnail url="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89130/tehran_amo_2016314_th.jpg"></media:thumbnail>    
-       <description><![CDATA[Over the past month, more than 400 people have died due to air pollution in Iranís capital.
-]]></description>	    
-       <content:encoded><![CDATA[
-	<p><a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=89130&amp;src=iotdrsscontent"><img src="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89130/tehran_amo_2016314_th.jpg" border="0" alt="Deadly Smog Shrouds Tehran"/></a><br/>Over the past month, more than 400 people have died due to air pollution in Iranís capital.
-</p>
-       ]]></content:encoded>	
-       <pubDate>Fri, 18 Nov 2016 00:00:00 -0500</pubDate>
-       <guid>http://earthobservatory.nasa.gov/IOTD/view.php?id=89130&amp;src=iotdrss</guid>		
-       <georss:point>35.73 51.38</georss:point>	
-    </item>
-    <item>
-       <title>Satellite Detects Human Contribution to Atmospheric CO2</title>
-       <link>http://earthobservatory.nasa.gov/IOTD/view.php?id=89117&amp;src=iotdrss</link>        
-       <media:thumbnail url="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89117/usa_oco_2016_th.png"></media:thumbnail>    
-       <description><![CDATA[Measurements from OCO-2 will provide a baseline for monitoring changes in emissions.]]></description>	    
-       <content:encoded><![CDATA[
-	<p><a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=89117&amp;src=iotdrsscontent"><img src="http://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89117/usa_oco_2016_th.png" border="0" alt="Satellite Detects Human Contribution to Atmospheric CO2"/></a><br/>Measurements from OCO-2 will provide a baseline for monitoring changes in emissions.</p>
-       ]]></content:encoded>	
-       <pubDate>Thu, 17 Nov 2016 00:00:00 -0500</pubDate>
-       <guid>http://earthobservatory.nasa.gov/IOTD/view.php?id=89117&amp;src=iotdrss</guid>	
-    </item>
-
-
-   </channel>
- </rss>
+<StudentBody xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<School>School of Fine Art</School>
+<Students>
+<Student>
+<FullName>Adam Harmetz</FullName>
+<FirstName>Adam</FirstName>
+<MiddleName/>
+<LastName>Harmetz</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/AdamHarmetz.png
+</PhotoFilename>
+<GradePointAverage>3.01</GradePointAverage>
+</Student>
+<Student>
+<FullName>Alan Brewer</FullName>
+<FirstName>Alan</FirstName>
+<MiddleName/>
+<LastName>Brewer</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/AlanBrewer.png
+</PhotoFilename>
+<GradePointAverage>1.17</GradePointAverage>
+</Student>
+<Student>
+<FullName>Alex J. Simmons</FullName>
+<FirstName>Alex</FirstName>
+<MiddleName>J.</MiddleName>
+<LastName>Simmons</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/AlexSimmons.png
+</PhotoFilename>
+<GradePointAverage>3.31</GradePointAverage>
+</Student>
+<Student>
+<FullName>Amy E. Alberts</FullName>
+<FirstName>Amy</FirstName>
+<MiddleName>E.</MiddleName>
+<LastName>Alberts</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/AmyAlberts.png
+</PhotoFilename>
+<GradePointAverage>3.53</GradePointAverage>
+</Student>
+<Student>
+<FullName>Amy Strande</FullName>
+<FirstName>Amy</FirstName>
+<MiddleName/>
+<LastName>Strande</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/AmyStrande.png
+</PhotoFilename>
+<GradePointAverage>3.77</GradePointAverage>
+</Student>
+<Student>
+<FullName>Andreas Hanefeld Dziegiel</FullName>
+<FirstName>Andreas</FirstName>
+<MiddleName>Hanefeld</MiddleName>
+<LastName>Dziegiel</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/AndreasDziegiel.png
+</PhotoFilename>
+<GradePointAverage>1.88</GradePointAverage>
+</Student>
+<Student>
+<FullName>Arvind B. Rao</FullName>
+<FirstName>Arvind</FirstName>
+<MiddleName>B.</MiddleName>
+<LastName>Rao</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/ArvindRao.png
+</PhotoFilename>
+<GradePointAverage>3.19</GradePointAverage>
+</Student>
+<Student>
+<FullName>Barbara Zighetti</FullName>
+<FirstName>Barbara</FirstName>
+<MiddleName/>
+<LastName>Zighetti</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/BarbaraZighetti.png
+</PhotoFilename>
+<GradePointAverage>3.62</GradePointAverage>
+</Student>
+<Student>
+<FullName>Chad Niswonger</FullName>
+<FirstName>Chad</FirstName>
+<MiddleName/>
+<LastName>Niswonger</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/ChadNiswonger.png
+</PhotoFilename>
+<GradePointAverage>3.5</GradePointAverage>
+</Student>
+<Student>
+<FullName>Cliff Didcock</FullName>
+<FirstName>Cliff</FirstName>
+<MiddleName/>
+<LastName>Didcock</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/CliffDidcock.png
+</PhotoFilename>
+<GradePointAverage>2.26</GradePointAverage>
+</Student>
+<Student>
+<FullName>Cynthia Carey</FullName>
+<FirstName>Cynthia</FirstName>
+<MiddleName/>
+<LastName>Carey</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/CynthiaCarey.png
+</PhotoFilename>
+<GradePointAverage>3.04</GradePointAverage>
+</Student>
+<Student>
+<FullName>Eliot J. Graff</FullName>
+<FirstName>Eliot</FirstName>
+<MiddleName>J.</MiddleName>
+<LastName>Graff</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/EliotGraff.png
+</PhotoFilename>
+<GradePointAverage>2.2</GradePointAverage>
+</Student>
+<Student>
+<FullName>Endre Bognar</FullName>
+<FirstName>Endre</FirstName>
+<MiddleName/>
+<LastName>Bognar</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/EndreBognar.png
+</PhotoFilename>
+<GradePointAverage>1.29</GradePointAverage>
+</Student>
+<Student>
+<FullName>Guy Gilbert</FullName>
+<FirstName>Guy</FirstName>
+<MiddleName/>
+<LastName>Gilbert</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/GuyGilbert.png
+</PhotoFilename>
+<GradePointAverage>2.9</GradePointAverage>
+</Student>
+<Student>
+<FullName>Isabelle Scemla</FullName>
+<FirstName>Isabelle</FirstName>
+<MiddleName/>
+<LastName>Scemla</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/IsabelleScemla.png
+</PhotoFilename>
+<GradePointAverage>2.43</GradePointAverage>
+</Student>
+<Student>
+<FullName>Ivo Haemels</FullName>
+<FirstName>Ivo</FirstName>
+<MiddleName/>
+<LastName>Haemels</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/IvoHaemels.png
+</PhotoFilename>
+<GradePointAverage>1.02</GradePointAverage>
+</Student>
+<Student>
+<FullName>Jacek Ma≈õli≈Ñski</FullName>
+<FirstName>Jacek</FirstName>
+<MiddleName/>
+<LastName>Ma≈õli≈Ñski</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/JacekMa≈õli≈Ñski.png
+</PhotoFilename>
+<GradePointAverage>2.15</GradePointAverage>
+</Student>
+<Student>
+<FullName>Jack S. Richins</FullName>
+<FirstName>Jack</FirstName>
+<MiddleName>S.</MiddleName>
+<LastName>Richins</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/JackRichins.png
+</PhotoFilename>
+<GradePointAverage>2.52</GradePointAverage>
+</Student>
+<Student>
+<FullName>James Hendergart</FullName>
+<FirstName>James</FirstName>
+<MiddleName/>
+<LastName>Hendergart</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/JamesHendergart.png
+</PhotoFilename>
+<GradePointAverage>2.51</GradePointAverage>
+</Student>
+<Student>
+<FullName>Jason Kozleski</FullName>
+<FirstName>Jason</FirstName>
+<MiddleName/>
+<LastName>Kozleski</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/JasonKozleski.png
+</PhotoFilename>
+<GradePointAverage>3</GradePointAverage>
+</Student>
+<Student>
+<FullName>Jeff Phillips</FullName>
+<FirstName>Jeff</FirstName>
+<MiddleName/>
+<LastName>Phillips</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/JeffPhillips.png
+</PhotoFilename>
+<GradePointAverage>1.2</GradePointAverage>
+</Student>
+<Student>
+<FullName>Jenny Liu</FullName>
+<FirstName>Jenny</FirstName>
+<MiddleName/>
+<LastName>Liu</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/JennyLiu.png
+</PhotoFilename>
+<GradePointAverage>2.79</GradePointAverage>
+</Student>
+<Student>
+<FullName>Jesse Merriam</FullName>
+<FirstName>Jesse</FirstName>
+<MiddleName/>
+<LastName>Merriam</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/JesseMerriam.png
+</PhotoFilename>
+<GradePointAverage>2.74</GradePointAverage>
+</Student>
+<Student>
+<FullName>John Yokim</FullName>
+<FirstName>John</FirstName>
+<MiddleName/>
+<LastName>Yokim</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/JohnYokim.png
+</PhotoFilename>
+<GradePointAverage>2.06</GradePointAverage>
+</Student>
+<Student>
+<FullName>J√≥n Harry √ìskarsson</FullName>
+<FirstName>J√≥n</FirstName>
+<MiddleName>Harry</MiddleName>
+<LastName>√ìskarsson</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/J√≥n√ìskarsson.png
+</PhotoFilename>
+<GradePointAverage>2.02</GradePointAverage>
+</Student>
+<Student>
+<FullName>Jonathan Poon</FullName>
+<FirstName>Jonathan</FirstName>
+<MiddleName/>
+<LastName>Poon</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/JonathanPoon.png
+</PhotoFilename>
+<GradePointAverage>2.78</GradePointAverage>
+</Student>
+<Student>
+<FullName>Josh Barnhill</FullName>
+<FirstName>Josh</FirstName>
+<MiddleName/>
+<LastName>Barnhill</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/JoshBarnhill.png
+</PhotoFilename>
+<GradePointAverage>2.93</GradePointAverage>
+</Student>
+<Student>
+<FullName>Karen Berg</FullName>
+<FirstName>Karen</FirstName>
+<MiddleName/>
+<LastName>Berg</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/KarenBerg.png
+</PhotoFilename>
+<GradePointAverage>2.17</GradePointAverage>
+</Student>
+<Student>
+<FullName>Karina Leal</FullName>
+<FirstName>Karina</FirstName>
+<MiddleName/>
+<LastName>Leal</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/KarinaLeal.png
+</PhotoFilename>
+<GradePointAverage>2.57</GradePointAverage>
+</Student>
+<Student>
+<FullName>Katka Kutejova</FullName>
+<FirstName>Katka</FirstName>
+<MiddleName/>
+<LastName>Kutejova</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/KatkaKutejova.png
+</PhotoFilename>
+<GradePointAverage>2.21</GradePointAverage>
+</Student>
+<Student>
+<FullName>Kendall Keil</FullName>
+<FirstName>Kendall</FirstName>
+<MiddleName/>
+<LastName>Keil</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/KendallKeil.png
+</PhotoFilename>
+<GradePointAverage>2.17</GradePointAverage>
+</Student>
+<Student>
+<FullName>Kim Abercrombie</FullName>
+<FirstName>Kim</FirstName>
+<MiddleName/>
+<LastName>Abercrombie</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/KimAbercrombie.png
+</PhotoFilename>
+<GradePointAverage>2.22</GradePointAverage>
+</Student>
+<Student>
+<FullName>Larry Waldman</FullName>
+<FirstName>Larry</FirstName>
+<MiddleName/>
+<LastName>Waldman</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/LarryWaldman.png
+</PhotoFilename>
+<GradePointAverage>2.54</GradePointAverage>
+</Student>
+<Student>
+<FullName>Liberty Munson</FullName>
+<FirstName>Liberty</FirstName>
+<MiddleName/>
+<LastName>Munson</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/LibertyMunson.png
+</PhotoFilename>
+<GradePointAverage>2.87</GradePointAverage>
+</Student>
+<Student>
+<FullName>Linda Mitchell</FullName>
+<FirstName>Linda</FirstName>
+<MiddleName/>
+<LastName>Mitchell</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/LindaMitchell.png
+</PhotoFilename>
+<GradePointAverage>1.31</GradePointAverage>
+</Student>
+<Student>
+<FullName>Linda Timm</FullName>
+<FirstName>Linda</FirstName>
+<MiddleName/>
+<LastName>Timm</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/LindaTimm.png
+</PhotoFilename>
+<GradePointAverage>1.75</GradePointAverage>
+</Student>
+<Student>
+<FullName>Lucia Ceckova</FullName>
+<FirstName>Lucia</FirstName>
+<MiddleName/>
+<LastName>Ceckova</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/LuciaCeckova.png
+</PhotoFilename>
+<GradePointAverage>3.77</GradePointAverage>
+</Student>
+<Student>
+<FullName>Mahesh Sreenivas</FullName>
+<FirstName>Mahesh</FirstName>
+<MiddleName/>
+<LastName>Sreenivas</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/MaheshSreenivas.png
+</PhotoFilename>
+<GradePointAverage>2.66</GradePointAverage>
+</Student>
+<Student>
+<FullName>Mariusz Wolodzko</FullName>
+<FirstName>Mariusz</FirstName>
+<MiddleName/>
+<LastName>Wolodzko</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/MariuszWolodzko.png
+</PhotoFilename>
+<GradePointAverage>3.68</GradePointAverage>
+</Student>
+<Student>
+<FullName>Michael Khoury</FullName>
+<FirstName>Michael</FirstName>
+<MiddleName/>
+<LastName>Khoury</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/MichaelKhoury.png
+</PhotoFilename>
+<GradePointAverage>1.2</GradePointAverage>
+</Student>
+<Student>
+<FullName>Michael Tucker</FullName>
+<FirstName>Michael</FirstName>
+<MiddleName/>
+<LastName>Tucker</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/MichaelTucker.png
+</PhotoFilename>
+<GradePointAverage>1.05</GradePointAverage>
+</Student>
+<Student>
+<FullName>Mike Gahrns</FullName>
+<FirstName>Mike</FirstName>
+<MiddleName/>
+<LastName>Gahrns</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/MikeGahrns.png
+</PhotoFilename>
+<GradePointAverage>3.31</GradePointAverage>
+</Student>
+<Student>
+<FullName>Modesto Estrada</FullName>
+<FirstName>Modesto</FirstName>
+<MiddleName/>
+<LastName>Estrada</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/ModestoEstrada.png
+</PhotoFilename>
+<GradePointAverage>1.13</GradePointAverage>
+</Student>
+<Student>
+<FullName>Nancy Anderson</FullName>
+<FirstName>Nancy</FirstName>
+<MiddleName/>
+<LastName>Anderson</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/NancyAnderson.png
+</PhotoFilename>
+<GradePointAverage>2.67</GradePointAverage>
+</Student>
+<Student>
+<FullName>Niraj Shah</FullName>
+<FirstName>Niraj</FirstName>
+<MiddleName/>
+<LastName>Shah</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/NirajShah.png
+</PhotoFilename>
+<GradePointAverage>1.58</GradePointAverage>
+</Student>
+<Student>
+<FullName>Oliver Szimmetat</FullName>
+<FirstName>Oliver</FirstName>
+<MiddleName/>
+<LastName>Szimmetat</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/OliverSzimmetat.png
+</PhotoFilename>
+<GradePointAverage>2.07</GradePointAverage>
+</Student>
+<Student>
+<FullName>Pablo Rovira Diez</FullName>
+<FirstName>Pablo</FirstName>
+<MiddleName/>
+<LastName>Rovira Diez</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/PabloRovira Diez.png
+</PhotoFilename>
+<GradePointAverage>1.22</GradePointAverage>
+</Student>
+<Student>
+<FullName>Pannarat Pattanapitakkul</FullName>
+<FirstName>Pannarat</FirstName>
+<MiddleName/>
+<LastName>Pattanapitakkul</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/PannaratPattanapitakkul.png
+</PhotoFilename>
+<GradePointAverage>3.31</GradePointAverage>
+</Student>
+<Student>
+<FullName>Patrick Hines</FullName>
+<FirstName>Patrick</FirstName>
+<MiddleName/>
+<LastName>Hines</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/PatrickHines.png
+</PhotoFilename>
+<GradePointAverage>3.04</GradePointAverage>
+</Student>
+<Student>
+<FullName>Paul Koch</FullName>
+<FirstName>Paul</FirstName>
+<MiddleName/>
+<LastName>Koch</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/PaulKoch.png
+</PhotoFilename>
+<GradePointAverage>3.64</GradePointAverage>
+</Student>
+<Student>
+<FullName>Raja D. Venugopal</FullName>
+<FirstName>Raja</FirstName>
+<MiddleName>D.</MiddleName>
+<LastName>Venugopal</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/RajaVenugopal.png
+</PhotoFilename>
+<GradePointAverage>3.58</GradePointAverage>
+</Student>
+<Student>
+<FullName>Raman Iyer</FullName>
+<FirstName>Raman</FirstName>
+<MiddleName/>
+<LastName>Iyer</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/RamanIyer.png
+</PhotoFilename>
+<GradePointAverage>3.41</GradePointAverage>
+</Student>
+<Student>
+<FullName>Ray Chow</FullName>
+<FirstName>Ray</FirstName>
+<MiddleName/>
+<LastName>Chow</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/RayChow.png
+</PhotoFilename>
+<GradePointAverage>1.74</GradePointAverage>
+</Student>
+<Student>
+<FullName>Raymond Fong</FullName>
+<FirstName>Raymond</FirstName>
+<MiddleName/>
+<LastName>Fong</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/RaymondFong.png
+</PhotoFilename>
+<GradePointAverage>3.36</GradePointAverage>
+</Student>
+<Student>
+<FullName>Richard Lum</FullName>
+<FirstName>Richard</FirstName>
+<MiddleName/>
+<LastName>Lum</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/RichardLum.png
+</PhotoFilename>
+<GradePointAverage>3.85</GradePointAverage>
+</Student>
+<Student>
+<FullName>Robin Counts</FullName>
+<FirstName>Robin</FirstName>
+<MiddleName/>
+<LastName>Counts</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/RobinCounts.png
+</PhotoFilename>
+<GradePointAverage>1.15</GradePointAverage>
+</Student>
+<Student>
+<FullName>Samantha Smith</FullName>
+<FirstName>Samantha</FirstName>
+<MiddleName/>
+<LastName>Smith</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/SamanthaSmith.png
+</PhotoFilename>
+<GradePointAverage>1.32</GradePointAverage>
+</Student>
+<Student>
+<FullName>Sandeep Kaliyath</FullName>
+<FirstName>Sandeep</FirstName>
+<MiddleName/>
+<LastName>Kaliyath</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/SandeepKaliyath.png
+</PhotoFilename>
+<GradePointAverage>3.55</GradePointAverage>
+</Student>
+<Student>
+<FullName>Sara Davis</FullName>
+<FirstName>Sara</FirstName>
+<MiddleName/>
+<LastName>Davis</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/SaraDavis.png
+</PhotoFilename>
+<GradePointAverage>3.2</GradePointAverage>
+</Student>
+<Student>
+<FullName>Sharon Salavaria</FullName>
+<FirstName>Sharon</FirstName>
+<MiddleName/>
+<LastName>Salavaria</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/SharonSalavaria.png
+</PhotoFilename>
+<GradePointAverage>3.29</GradePointAverage>
+</Student>
+<Student>
+<FullName>Shir Aviv-Reuven</FullName>
+<FirstName>Shir</FirstName>
+<MiddleName/>
+<LastName>Aviv-Reuven</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/ShirAviv-Reuven.png
+</PhotoFilename>
+<GradePointAverage>3.27</GradePointAverage>
+</Student>
+<Student>
+<FullName>Thomas S√∏ndergaard Jensen</FullName>
+<FirstName>Thomas</FirstName>
+<MiddleName>S√∏ndergaard</MiddleName>
+<LastName>Jensen</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/ThomasJensen.png
+</PhotoFilename>
+<GradePointAverage>2.08</GradePointAverage>
+</Student>
+<Student>
+<FullName>Tom Werner</FullName>
+<FirstName>Tom</FirstName>
+<MiddleName/>
+<LastName>Werner</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/TomWerner.png
+</PhotoFilename>
+<GradePointAverage>1.4</GradePointAverage>
+</Student>
+<Student>
+<FullName>Tzipi Butnaru</FullName>
+<FirstName>Tzipi</FirstName>
+<MiddleName/>
+<LastName>Butnaru</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/TzipiButnaru.png
+</PhotoFilename>
+<GradePointAverage>3.76</GradePointAverage>
+</Student>
+<Student>
+<FullName>Zrinka Makovac</FullName>
+<FirstName>Zrinka</FirstName>
+<MiddleName/>
+<LastName>Makovac</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://xamarin.github.io/xamarin-forms-book-samples/SchoolOfFineArt/ZrinkaMakovac.png
+</PhotoFilename>
+<GradePointAverage>2.73</GradePointAverage>
+</Student>
+</Students>
+</StudentBody>
